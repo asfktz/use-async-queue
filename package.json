@@ -45,7 +45,7 @@
     "prettier": "2.0.4",
     "react-test-renderer": "16.13.1"
   },
-  "dependencies": {
+  "peerDependencies": {
     "next-tick": "1.1.0",
     "react": "^16.9.1"
   }
